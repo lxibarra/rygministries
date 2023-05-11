@@ -5,7 +5,7 @@
   "description": "gatsby-rygministries.org",
   "author": "Ricardo Ibarra",
   "keywords": [
-    "gatsby"
+    "Music ministries, bible teaching, Traditional Christian values."
   ],
   "scripts": {
     "develop": "gatsby develop",
@@ -16,10 +16,12 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@emotion/css": "^11.11.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "gatsby": "^5.9.1",
     "gatsby-plugin-emotion": "^8.9.0",
+    "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-google-gtag": "^5.9.0",
     "gatsby-plugin-image": "^3.9.0",
     "gatsby-plugin-manifest": "^5.9.0",

@@ -4,8 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal TypeScript Starter
+  R&G Ministries
 </h1>
+
+<p>Yes we are using gatsby</p>
 
 ## 🚀 Quick start
 
